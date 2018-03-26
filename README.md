@@ -1,10 +1,10 @@
-#Project Breakpoint: Easy Canvas
+# Project Breakpoint: Easy Canvas
 
 Easy Canvas is a library of helper functions that are intended to simplify Canvas functions.
 
 Still in development.
 
-#Installation
+# Installation
 
 ```npm install pb-easycanvas --save```
 
@@ -12,7 +12,7 @@ Still in development.
 const EasyCanvas = require('pb-easycanvas');
 ```
 
-#Example Usage:
+# Example Usage:
 
 ```javascript
 props = {
@@ -26,5 +26,5 @@ props = {
 EasyCanvas.drawText(ctx,props);
 ```
 
-#Author
+# Author
 Jonathan Kuhl 2017
